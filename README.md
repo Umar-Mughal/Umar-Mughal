@@ -1,6 +1,6 @@
 # Hi 👋, Here is Umar 
 
-**A Top-Notch Full-Stack Engineer (Python, Django, Flask, FastAPI, Pyramid, JavaScript, Node, React, Laravel, AWS) with 8+ Years of Expertise!** 
+**A Top-Notch Full-Stack Engineer (Python, Django, Flask, FastAPI, AWS, GCP, CI/CD, Docker, Linux, DevOps, React, Node) with 8+ Years of Expertise!** 
 
 ---
 
